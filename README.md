@@ -1,4 +1,4 @@
 # my
 this is my first git repositort
 <BR>
-author - MAYURESHWAR
+author - MAYURESHWAR SHIVAPUR
